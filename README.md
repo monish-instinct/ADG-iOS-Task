@@ -13,4 +13,4 @@ Crypto Info App is a SwiftUI-based iOS application that allows users to explore 
 To run the Crypto Info App on your iOS simulator or device:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/monish-instinct/ADG.git
+   git clone https://github.com/monish-instinct/ADG-iOS-Task.git
